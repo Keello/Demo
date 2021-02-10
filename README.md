@@ -1,4 +1,5 @@
 // Ошибок - 14, cтроки => [2,6,14,19,22,28,36,43,47,50,52,58,63,65]
+```
 function School(name, minYears) {
   const self = this;
   if (!name && name.trim()) {
